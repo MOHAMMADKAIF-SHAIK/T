@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Group to scale and center a 24dp design inside the 108dp canvas strictly inside the 66dp safe zone -->
+    <group
+        android:translateX="21"
+        android:translateY="21"
+        android:scaleX="2.75"
+        android:scaleY="2.75">
+        
+        <!-- Graduation Cap (School Icon) - Main Cap -->
+        <path
+            android:fillColor="#10B981"
+            android:pathData="M12,3L1,9l11,6 9,-4.91v5.18h2V9L12,3z" />
+            
+        <!-- Graduation Cap - Tassel Base and Bottom -->
+        <path
+            android:fillColor="#3B82F6"
+            android:pathData="M5,13.18v4L12,21l7,-3.82v-4L12,17l-7,-3.82z" />
+            
+        <!-- Success Checkmark Overlay representing completed tests -->
+        <path
+            android:fillColor="#22C55E"
+            android:pathData="M17,14l-4.5,-4.5l-1.1,1.1l5.6,5.6l9,-9l-1.1,-1.1z" />
+    </group>
+</vector>

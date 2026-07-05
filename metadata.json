@@ -1,0 +1,6 @@
+{
+  "name": "PYQ Mock Test",
+  "description": "Conduct mock tests from your PYQ question and answer PDFs with detailed instant feedback and performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
